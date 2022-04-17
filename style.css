@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif, monospace;
+}
+h1 {
+    text-transform: uppercase;
+}
+li {
+    font-family: monospace;
+}
+
+.food {
+    width: 50%;
+    height: auto;
+}
